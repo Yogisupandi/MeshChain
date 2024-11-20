@@ -42,7 +42,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Get it from here >>> [Extension version](https://t.me/meshchain_bot?start=T_6713068747)
+### 2. `datas.txt` 🗂️ - Get it from here >>> [Extension version](https://t.me/KeoAirDropFreeNe/257/16137)
 
 ```txt -
 ey...
